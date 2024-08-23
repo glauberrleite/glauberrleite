@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-I work as a Computing Institute (IC) professor at the Federal University of Alagoas (UFAL). I am researching topics related to Field Robotics, Visual Servoing, Multi-robot cooperation, and Model Predictive Control. Thus, I lecture on subjects such as linear algebra, robotics, and related elective subjects for computing and engineering courses.
+I work as Professor at the Computing Institute (IC), a department of the Federal University of Alagoas (UFAL). I am researching topics related to Field Robotics, Visual Servoing, Multi-robot cooperation, and Model Predictive Control. Thus, I lecture on subjects such as linear algebra, robotics, and related elective subjects for computing and engineering courses.
 </p>
 
 <p align="left">
